@@ -1,0 +1,12 @@
+==============================================================================
+
+ Atividade I 
+ 1). Qual a diferença em relação ao código anterior? Na sua opinão, o que melhorou e o que piorou?
+   R: O código foi melhorado tanto em sua leitura, quanto em sua manutenção.
+
+
+ 2). O que é e para que serve parâmetros do tipo função? Em que caso utilizamos?
+   R: parametros servem para ja definirmos os valores que iremos utilizar na função ,
+   utilizamos ela em funções onde não iremos usar muito, ou seja, que não repetir.
+
+==============================================================================
